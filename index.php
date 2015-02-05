@@ -9,7 +9,7 @@
 <body>
 <div id="nav_wrapper">
 	<ul id="nav">
-		<li><a href='#'><span>Home</span></a></li>
+		<li><a href='index.php'><span>Home</span></a></li>
 		<li><a href="#"><span>Restaurant</span></a></li>
 		<li><a href="about"><span>About</span></a></li>
 		
